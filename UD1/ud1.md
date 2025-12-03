@@ -4,12 +4,12 @@
 
 ## Índice de apartados
 
-- [ ] **1. Análisis del sector tecnológico**
-- [ ] **2. Selección de la empresa o contexto de trabajo**
-- [ ] **3. Identificación de necesidades tecnológicas**
-- [ ] **4. Oportunidades y viabilidad del proyecto**
-- [ ] **5. Obligaciones legales y normativas**
-- [ ] **6. Guion inicial del proyecto**
+- [ ] [**1. Análisis del sector tecnológico**](p1.md)
+- [ ] [**2. Selección de la empresa o contexto de trabajo**](p2.md)
+- [ ] [**3. Identificación de necesidades tecnológicas**](p3.md)
+- [ ] [**4. Oportunidades y viabilidad del proyecto**](p4.md)
+- [ ] [**5. Obligaciones legales y normativas**](p5.md)
+- [ ] [**6. Guion inicial del proyecto**](p6.md)
 
 ## Enlaces a recursos de la unidad
 
